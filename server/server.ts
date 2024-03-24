@@ -2,7 +2,6 @@ import express from 'express'
 import * as Path from 'node:path'
 import 'dotenv/config'
 
-// import fruitRoutes from './routes/fruits.ts'
 import tasks from './routes/tasks.ts'
 import steps from './routes/steps.ts'
 import budget from './routes/budget.ts'
