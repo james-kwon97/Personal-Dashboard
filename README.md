@@ -1,3 +1,5 @@
 # Personal-Dashboard
 
-Final group project done at Dev Academy in a team of 5!
+Full Stack project done at Dev Academy in a team of 5!
+
+https://youtu.be/QE5OJYASifY?t=164
